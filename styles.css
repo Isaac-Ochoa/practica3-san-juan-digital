@@ -2,7 +2,10 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
-/* Espacio para estilos de modulos */
+.hero-section {
+    background-color: red;
+    height: 300px;
+}
 
 
 
